@@ -14,9 +14,13 @@ import Try from './components/try.vue';
 	</div>
 	<HelloWorld msg="Vite + Vue" />
 	<Try></Try>
+<<<<<<< Updated upstream
 	<HelloWorld msg="Vite + Vue" />
 	<HelloWorld msg="Vite + Vue" />
 	<HelloWorld msg="Vite + Vue" />
+=======
+	<Try></Try>
+>>>>>>> Stashed changes
 </template>
 
 <style scoped>
