@@ -5,6 +5,7 @@ import Try from './components/try.vue';
 
 <template>
 	<div>
+		<div>cccccccc</div>
 		<a href="https://vite.dev" target="_blank">
 			<img src="/vite.svg" class="logo" alt="Vite logo" />
 		</a>
@@ -12,15 +13,12 @@ import Try from './components/try.vue';
 			<img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
 		</a>
 	</div>
+	<div>ddddddddd</div>
 	<HelloWorld msg="Vite + Vue" />
 	<Try></Try>
-<<<<<<< Updated upstream
 	<HelloWorld msg="Vite + Vue" />
 	<HelloWorld msg="Vite + Vue" />
 	<HelloWorld msg="Vite + Vue" />
-=======
-	<Try></Try>
->>>>>>> Stashed changes
 </template>
 
 <style scoped>
