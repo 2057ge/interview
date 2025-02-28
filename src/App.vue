@@ -14,6 +14,9 @@ import Try from './components/try.vue';
 	</div>
 	<HelloWorld msg="Vite + Vue" />
 	<Try></Try>
+	<HelloWorld msg="Vite + Vue" />
+	<HelloWorld msg="Vite + Vue" />
+	<HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
